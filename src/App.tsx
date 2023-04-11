@@ -1,7 +1,6 @@
 import { FC } from 'react'
 import { useThemeWatcher } from './hooks/useThemeWatcher'
 
-import Layout from './layout'
 import 'normalize.css'
 import './styles/globalStyles.scss'
 
